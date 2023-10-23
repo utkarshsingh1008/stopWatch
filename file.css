@@ -1,0 +1,21 @@
+.buttons{
+    text-align: center;
+    margin-top: 20%;
+
+}
+.button{
+    width: 10%;
+    height: 50px;
+}
+#start{
+    background-color: greenyellow;
+}
+#stop{
+    background-color: red;
+}
+#pause{
+    background-color: aliceblue;
+}
+#time{
+    font-size: 100px;
+}
